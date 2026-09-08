@@ -59,7 +59,7 @@
       <score-instrument id="P1-I1">
         <instrument-name>Piano</instrument-name>
         </score-instrument>
-      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-device id="P1-I1" port="1"/>
       <midi-instrument id="P1-I1">
         <midi-channel>1</midi-channel>
         <midi-program>1</midi-program>
@@ -70,6 +70,7 @@
     </part-list>
   <part id="P1">
     <measure number="0" implicit="yes" width="155.72">
+      <direction><direction-type><other-direction>ensemble:macro-pulse beats=2 beat_unit=dotted-half</other-direction></direction-type></direction>
       <print>
         <system-layout>
           <system-margins>
@@ -7776,6 +7777,7 @@
         </note>
       </measure>
     <measure number="19" width="265.33">
+      <direction><direction-type><other-direction>ensemble:macro-pulse end</other-direction></direction-type></direction>
       <attributes>
         <time>
           <beats>4</beats>
@@ -11733,6 +11735,7 @@
         </barline>
       </measure>
     <measure number="36" width="634.68">
+      <direction><direction-type><other-direction>ensemble:macro-pulse beats=2 beat_unit=dotted-half</other-direction></direction-type></direction>
       <attributes>
         <key>
           <fifths>-5</fifths>
@@ -19534,6 +19537,7 @@
         </note>
       </measure>
     <measure number="54" width="264.54">
+      <direction><direction-type><other-direction>ensemble:macro-pulse end</other-direction></direction-type></direction>
       <attributes>
         <time>
           <beats>4</beats>
@@ -98386,6 +98390,7 @@
         </note>
       </measure>
     <measure number="254" width="431.72">
+      <direction><direction-type><other-direction>ensemble:macro-pulse beats=6 beat_unit=quarter</other-direction></direction-type></direction>
       <attributes>
         <time>
           <beats>6</beats>
@@ -104681,6 +104686,7 @@
         </note>
       </measure>
     <measure number="269" width="570.87">
+      <direction><direction-type><other-direction>ensemble:macro-pulse end</other-direction></direction-type></direction>
       <print new-system="yes">
         <system-layout>
           <system-margins>
@@ -111053,6 +111059,7 @@
         </attributes>
       </measure>
     <measure number="284" width="556.75">
+      <direction><direction-type><other-direction>ensemble:macro-pulse beats=2 beat_unit=dotted-half</other-direction></direction-type></direction>
       <print new-page="yes">
         <system-layout>
           <system-margins>
@@ -124672,6 +124679,7 @@
         </note>
       </measure>
     <measure number="298" width="587.80">
+      <direction><direction-type><other-direction>ensemble:macro-pulse end</other-direction></direction-type></direction>
       <print new-system="yes">
         <system-layout>
           <system-margins>

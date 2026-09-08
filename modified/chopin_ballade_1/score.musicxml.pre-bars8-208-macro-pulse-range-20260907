@@ -1331,7 +1331,6 @@
     </measure>
     <!--=======================================================-->
     <measure number="8" width="295">
-      <direction><direction-type><other-direction id="e482d93995c439179">ensemble:macro-pulse beats=2 beat_unit=dotted-half</other-direction></direction-type></direction>
       <attributes>
         <time>
           <beats>6</beats>
@@ -65645,7 +65644,6 @@
     </measure>
     <!--=======================================================-->
     <measure number="208" width="330">
-      <direction><direction-type><other-direction id="e398a94e791d96186">ensemble:macro-pulse end</other-direction></direction-type></direction>
       <print new-system="yes">
         <system-layout>
           <system-margins>
